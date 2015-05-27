@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <declare-styleable name="EasyProgressAttr"> 
+         <attr name="arcColor"  format="reference|color"/>
+         <attr name="borderWidth"  format="reference|dimension"/>
+    </declare-styleable> 
+    
+</resources>
